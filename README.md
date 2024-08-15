@@ -54,6 +54,7 @@ python main.py
 		"email": "mauris.id@google.net",
 		"address": "3595 A, Rd."
 	}
+]
 ```
 
 # API Calls
